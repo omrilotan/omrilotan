@@ -1,5 +1,4 @@
-# Hi.
-# My name is Omri.
+# Hi.<br># My name is Omri.
 
 I'm passionate about contributing to open-source software. Look at the six projects I chose to display here, below. I change them sometimes.
 
