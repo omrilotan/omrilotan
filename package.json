@@ -1,0 +1,19 @@
+{
+  "name": "omrilotan",
+  "version": "0.0.0",
+  "description": "My name is Omri",
+  "author": "omrilotan",
+  "license": "MIT",
+  "homepage": "https://omrilotan.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omrilotan/omrilotan.git"
+  },
+  "private": true,
+  "scripts": {
+    "start": "node build"
+  },
+  "devDependencies": {
+    "xml-js": "^1.6.11"
+  }
+}
