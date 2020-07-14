@@ -10,10 +10,12 @@
     "url": "git+https://github.com/omrilotan/omrilotan.git"
   },
   "private": true,
+  "type": "module",
   "scripts": {
-    "start": "node build"
+    "start": "node --experimental-top-level-await ."
   },
-  "devDependencies": {
+  "dependencies": {
+    "async-execute": "^1.2.0",
     "xml-js": "^1.6.11"
   }
 }
