@@ -15,4 +15,5 @@ here are some of them:
 
 I've been recently active on:
 
-- [fiverr/page-timing](https://api.github.com/repos/fiverr/page-timing)
+- [fiverr/lighthouse-scores-to-email](https://github.com/fiverr/lighthouse-scores-to-email)
+- [fiverr/page-timing](https://github.com/fiverr/page-timing)
