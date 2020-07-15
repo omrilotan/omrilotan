@@ -15,5 +15,5 @@ here are some of them:
 
 I've been recently active on:
 
-- [fiverr/lighthouse-scores-to-email](https://github.com/fiverr/lighthouse-scores-to-email)
-- [fiverr/page-timing](https://github.com/fiverr/page-timing)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=lighthouse-scores-to-email)](https://github.com/fiverr/lighthouse-scores-to-email)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=page-timing)](https://github.com/fiverr/page-timing)
