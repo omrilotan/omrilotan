@@ -2,7 +2,6 @@
 
 import fs from 'fs';
 import github from './lib/github/index.js';
-import list from './lib/list/index.js';
 import medium from './lib/medium/index.js';
 import read from './lib/read/index.js';
 
@@ -15,11 +14,28 @@ const activities = await github('omrilotan');
 const content = [];
 
 content.push(await read('./chunks/intro.md'));
+
 articles.length && content.push(
-	...list('here are some of them:', articles)
-)
+	'',
+	'here are some of them:',
+	'',
+	...articles.map(
+		({ title, link }) => `- [${title}](${link})`
+	)
+);
+
 activities.length && content.push(
-	...list('I\'ve been recently active on:', activities)
+	'',
+	'I\'ve been recently active on:',
+	'',
+	...activities.map(
+		name => {
+			const [ username, repo ] = name.split('/');
+			const image = `https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo}`;
+
+			return `[![](${image})](https://github.com/${name})`;
+		}
+	)
 )
 
 try {
