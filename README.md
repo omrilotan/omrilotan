@@ -15,5 +15,6 @@ here are some of them:
 
 I've been recently active on:
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=js-org&repo=js.org)](https://github.com/js-org/js.org)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=gorangajic&repo=isbot)](https://github.com/gorangajic/isbot)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=lighthouse-scores-to-email)](https://github.com/fiverr/lighthouse-scores-to-email)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=page-timing)](https://github.com/fiverr/page-timing)
