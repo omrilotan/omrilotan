@@ -55,8 +55,8 @@ workflows:
       - build
     triggers:
       - schedule:
-          # At 10:00 on Thursday.
-          cron: "0 10 * * 4"
+          # At 10:00 on every day-of-week from Sunday through Thursday.
+          cron: "0 10 * * 0-4"
           filters:
             branches:
               only:
