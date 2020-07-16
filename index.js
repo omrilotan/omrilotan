@@ -31,7 +31,7 @@ activities.length && content.push(
 	...activities.map(
 		name => {
 			const [ username, repo ] = name.split('/');
-			const image = `https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo}`;
+			const image = `https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo}&show_owner=true`;
 
 			return `[![](${image})](https://github.com/${name})`;
 		}
