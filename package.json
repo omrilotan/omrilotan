@@ -12,7 +12,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "node --experimental-top-level-await ."
+    "start": "node --experimental-top-level-await .",
+    "test": "npm start -- --testing"
   },
   "dependencies": {
     "async-execute": "^1.2.0",

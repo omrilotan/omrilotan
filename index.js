@@ -6,15 +6,13 @@ import medium from './lib/medium/index.js';
 import read from './lib/read/index.js';
 
 const { promises: { writeFile, mkdir } } = fs;
-
-const articles = await medium('omrilotan');
-
-const activities = await github('omrilotan');
-
+const [ , , ...args ] = process.argv;
+const testing = args.includes('--testing');
 const content = [];
 
 content.push(await read('./chunks/intro.md'));
 
+const articles = await medium('omrilotan');
 articles.length && content.push(
 	'',
 	'here are some of them:',
@@ -24,6 +22,7 @@ articles.length && content.push(
 	)
 );
 
+const activities = await github('omrilotan');
 activities.length && content.push(
 	'',
 	'I\'ve been recently active on:',
@@ -36,13 +35,18 @@ activities.length && content.push(
 			return `[![](${image})](https://github.com/${name})`;
 		}
 	)
-)
+);
 
-try {
-	await mkdir('dist')
-} catch {}
+if (testing) {
+	console.log(content.join('\n'));
+	process.exit(0);
+}
 
+await mkdir(
+	'dist',
+	{ recursive: true }
+);
 writeFile(
-    'dist/README.md',
-    content.join('\n')
+	'dist/README.md',
+	content.join('\n')
 );
