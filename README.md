@@ -16,5 +16,6 @@ here are some of them:
 I've been recently active on:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=js-org&repo=js.org&show_owner=true)](https://github.com/js-org/js.org)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=gorangajic&repo=isbot&show_owner=true)](https://github.com/gorangajic/isbot)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=page-timing&show_owner=true)](https://github.com/fiverr/page-timing)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
