@@ -4,6 +4,7 @@ import fs from 'fs';
 import github from './lib/github/index.js';
 import medium from './lib/medium/index.js';
 import read from './lib/read/index.js';
+import strip from './lib/strip/index.js';
 
 const { promises: { writeFile, mkdir } } = fs;
 const [ , , ...args ] = process.argv;
@@ -18,7 +19,7 @@ articles.length && content.push(
 	'here are some of them:',
 	'',
 	...articles.map(
-		({ title, link }) => `- [${title}](${link})`
+		({ title, link }) => `- [${title}](${strip(link)})`
 	)
 );
 
