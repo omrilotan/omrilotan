@@ -16,5 +16,7 @@ here are some of them:
 
 I've been recently active on:
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=eslint-config-fiverr&show_owner=true)](https://github.com/fiverr/eslint-config-fiverr)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=failed-to-load&show_owner=true)](https://github.com/fiverr/failed-to-load)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=page-timing&show_owner=true)](https://github.com/fiverr/page-timing)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=gorangajic&repo=isbot&show_owner=true)](https://github.com/gorangajic/isbot)
