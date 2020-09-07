@@ -16,4 +16,5 @@ here are some of them:
 
 I've been recently active on:
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=gorangajic&repo=isbot&show_owner=true)](https://github.com/gorangajic/isbot)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ealush&repo=vest&show_owner=true)](https://github.com/ealush/vest)
