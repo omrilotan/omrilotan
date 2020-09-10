@@ -19,4 +19,3 @@ I've been recently active on:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=fiverr.github.io&show_owner=true)](https://github.com/fiverr/fiverr.github.io)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=page-timing&show_owner=true)](https://github.com/fiverr/page-timing)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=gorangajic&repo=isbot&show_owner=true)](https://github.com/gorangajic/isbot)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ealush&repo=vest&show_owner=true)](https://github.com/ealush/vest)
