@@ -20,4 +20,3 @@ I've been recently active on:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=intoli&repo=user-agents&show_owner=true)](https://github.com/intoli/user-agents)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=page-timing&show_owner=true)](https://github.com/fiverr/page-timing)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=event-custodian&show_owner=true)](https://github.com/fiverr/event-custodian)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jacquelinelotan&repo=learnenglish&show_owner=true)](https://github.com/jacquelinelotan/learnenglish)
