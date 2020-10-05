@@ -12,14 +12,13 @@ here are some of them:
 - [My terminal is procrastinating ](https://medium.com/@omrilotan/my-terminal-is-procrastinating-c4cd520c373c)
 - [Front end observability. A practical guide to browsers error monitoring with window.onerror ‍](https://medium.com/fiverr-engineering/front-end-observability-a-practical-guide-to-browsers-error-monitoring-with-window-onerror-307f7a93deef)
 - [Contact form for static websites](https://medium.com/@omrilotan/contact-form-for-static-websites-56650393f78c)
-- [Front End Resource Sharing in Fiverr's Decentralized System](https://medium.com/fiverr-engineering/front-end-dependency-sharing-19ed0ce9089e)
 
 I've been recently active on:
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=eslint-config-fiverr&show_owner=true)](https://github.com/fiverr/eslint-config-fiverr)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=gorangajic&repo=isbot&show_owner=true)](https://github.com/gorangajic/isbot)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=fiverr.github.io&show_owner=true)](https://github.com/fiverr/fiverr.github.io)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=eslint-config-fiverr&show_owner=true)](https://github.com/fiverr/eslint-config-fiverr)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=failed-to-load&show_owner=true)](https://github.com/fiverr/failed-to-load)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=page-timing&show_owner=true)](https://github.com/fiverr/page-timing)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=event-custodian&show_owner=true)](https://github.com/fiverr/event-custodian)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=i18n.js&show_owner=true)](https://github.com/fiverr/i18n.js)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=node-statsd-client&show_owner=true)](https://github.com/fiverr/node-statsd-client)
