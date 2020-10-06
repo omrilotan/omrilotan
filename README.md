@@ -21,4 +21,3 @@ I've been recently active on:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=failed-to-load&show_owner=true)](https://github.com/fiverr/failed-to-load)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=page-timing&show_owner=true)](https://github.com/fiverr/page-timing)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=event-custodian&show_owner=true)](https://github.com/fiverr/event-custodian)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=i18n.js&show_owner=true)](https://github.com/fiverr/i18n.js)
