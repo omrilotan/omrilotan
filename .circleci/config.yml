@@ -4,6 +4,9 @@ jobs:
     working_directory: ~/app
     docker:
       - image: circleci/node:latest
+        auth:
+          username: $DOCKER_USER
+          password: $DOCKER_PASS
     steps:
       - checkout
       - run:
@@ -52,7 +55,8 @@ workflows:
 
   scheduled:
     jobs:
-      - build
+      - build:
+        context: globalenv
     triggers:
       - schedule:
           # At 10:00 on every day-of-week from Sunday through Thursday.
