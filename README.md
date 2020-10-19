@@ -18,5 +18,3 @@ I've been recently active on:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=doowat&repo=doowat.github.io&show_owner=true)](https://github.com/doowat/doowat.github.io)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=i18n.js&show_owner=true)](https://github.com/fiverr/i18n.js)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=fiverr.github.io&show_owner=true)](https://github.com/fiverr/fiverr.github.io)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=gorangajic&repo=isbot&show_owner=true)](https://github.com/gorangajic/isbot)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=dangerfile.js&show_owner=true)](https://github.com/fiverr/dangerfile.js)
