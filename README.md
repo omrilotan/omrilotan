@@ -15,6 +15,4 @@ here are some of them:
 
 I've been recently active on:
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=doowat&repo=doowat.github.io&show_owner=true)](https://github.com/doowat/doowat.github.io)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=i18n.js&show_owner=true)](https://github.com/fiverr/i18n.js)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=fiverr.github.io&show_owner=true)](https://github.com/fiverr/fiverr.github.io)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=js-org&repo=js.org&show_owner=true)](https://github.com/js-org/js.org)
