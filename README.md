@@ -7,6 +7,7 @@ Check out some things I wrote on [Medium](https://medium.com/@omrilotan) maybe. 
 
 here are some of them:
 
+- [npx breaking on CI?](https://medium.com/@omrilotan/npx-breaking-on-ci-b9f3f61d4676)
 - [Rich HTML in GitHub README](https://medium.com/@omrilotan/rich-html-in-github-readme-bfb3de791441)
 - [Detect mobile browsers without user agent string parsing](https://medium.com/fiverr-engineering/detect-mobile-browsers-without-user-agent-string-parsing-66e3694ce8cd)
 - [My terminal is procrastinating ](https://medium.com/@omrilotan/my-terminal-is-procrastinating-c4cd520c373c)
