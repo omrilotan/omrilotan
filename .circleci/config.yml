@@ -18,8 +18,8 @@ jobs:
             git config --global user.name $CIRCLE_PROJECT_USERNAME &&
             git config --global user.email ${CIRCLE_PROJECT_USERNAME}@users.noreply.github.com
       - run:
-          name: Clone master branch
-          command: git clone -b master --single-branch $CIRCLE_REPOSITORY_URL dist
+          name: Clone main branch
+          command: git clone -b main --single-branch $CIRCLE_REPOSITORY_URL dist
       - run:
           name: Clean everything
           command: |
@@ -41,13 +41,14 @@ jobs:
             cd dist &&
             git add . &&
             git commit -m "$(curl -s whatthecommit.com/index.txt)" &&
-            git push origin master --force-with-lease &&
+            git push origin main --force-with-lease &&
             cd -
 workflows:
   version: 2.1
   website:
     jobs:
       - build:
+          context: globalenv
           filters:
             branches:
               only:
@@ -56,7 +57,7 @@ workflows:
   scheduled:
     jobs:
       - build:
-        context: globalenv
+          context: globalenv
     triggers:
       - schedule:
           # At 10:00 on every day-of-week from Sunday through Thursday.
