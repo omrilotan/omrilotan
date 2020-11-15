@@ -16,6 +16,5 @@ here are some of them:
 
 I've been recently active on:
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=page-timing&show_owner=true)](https://github.com/fiverr/page-timing)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=monperrus&repo=crawler-user-agents&show_owner=true)](https://github.com/monperrus/crawler-user-agents)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=yosuke-furukawa&repo=server-timing&show_owner=true)](https://github.com/yosuke-furukawa/server-timing)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=node-statsd-client&show_owner=true)](https://github.com/fiverr/node-statsd-client)
