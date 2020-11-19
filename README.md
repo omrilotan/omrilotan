@@ -16,5 +16,5 @@ here are some of them:
 
 I've been recently active on:
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=federico-terzi&repo=espanso-hub&show_owner=true)](https://github.com/federico-terzi/espanso-hub)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=page-timing&show_owner=true)](https://github.com/fiverr/page-timing)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=federico-terzi&repo=espanso-hub&show_owner=true)](https://github.com/federico-terzi/espanso-hub)
