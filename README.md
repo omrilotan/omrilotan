@@ -16,4 +16,5 @@ here are some of them:
 
 I've been recently active on:
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=pyresolve&show_owner=true)](https://github.com/fiverr/pyresolve)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=doowat&repo=doowat.github.io&show_owner=true)](https://github.com/doowat/doowat.github.io)
