@@ -16,6 +16,8 @@ here are some of them:
 
 I've been recently active on:
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=eslint-config-fiverr&show_owner=true)](https://github.com/fiverr/eslint-config-fiverr)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=perimeterx-axios-interceptor&show_owner=true)](https://github.com/fiverr/perimeterx-axios-interceptor)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=axios-inherit&show_owner=true)](https://github.com/fiverr/axios-inherit)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=federico-terzi&repo=espanso-hub&show_owner=true)](https://github.com/federico-terzi/espanso-hub)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=doowat&repo=doowat.github.io&show_owner=true)](https://github.com/doowat/doowat.github.io)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fiverr&repo=page-timing&show_owner=true)](https://github.com/fiverr/page-timing)
