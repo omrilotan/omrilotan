@@ -13,3 +13,7 @@ here are some of them:
 - [My terminal is procrastinating ](https://omrilotan.medium.com/my-terminal-is-procrastinating-c4cd520c373c)
 - [Front end observability. A practical guide to browsers error monitoring with window.onerror ‍](https://medium.com/fiverr-engineering/front-end-observability-a-practical-guide-to-browsers-error-monitoring-with-window-onerror-307f7a93deef)
 - [Contact form for static websites](https://omrilotan.medium.com/contact-form-for-static-websites-56650393f78c)
+
+I've been recently active on:
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=mimemagicrb&repo=mimemagic&show_owner=true)](https://github.com/mimemagicrb/mimemagic)
