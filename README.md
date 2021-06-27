@@ -13,3 +13,7 @@ here are some of them:
 - [My terminal is procrastinating ](https://omrilotan.medium.com/my-terminal-is-procrastinating-c4cd520c373c)
 - [Front end observability. A practical guide to browsers error monitoring with window.onerror ‍](https://medium.com/fiverr-engineering/front-end-observability-a-practical-guide-to-browsers-error-monitoring-with-window-onerror-307f7a93deef)
 - [Contact form for static websites](https://omrilotan.medium.com/contact-form-for-static-websites-56650393f78c)
+- [Front End Resource Sharing in Fiverr's Decentralized System](https://medium.com/fiverr-engineering/front-end-dependency-sharing-19ed0ce9089e)
+- [Javascript APIs with async properties](https://omrilotan.medium.com/javascript-async-variables-686dc5f03cb2)
+- [Robots writing docs](https://medium.com/fiverr-engineering/robots-writing-docs-3b9877e42c31)
+- [Major.Minor.Patch](https://medium.com/fiverr-engineering/major-minor-patch-a5298e2e1798)
