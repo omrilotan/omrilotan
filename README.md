@@ -17,3 +17,7 @@ here are some of them:
 - [Javascript APIs with async properties](https://omrilotan.medium.com/javascript-async-variables-686dc5f03cb2)
 - [Robots writing docs](https://medium.com/fiverr-engineering/robots-writing-docs-3b9877e42c31)
 - [Major.Minor.Patch](https://medium.com/fiverr-engineering/major-minor-patch-a5298e2e1798)
+
+I've been recently active on:
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=GoogleChrome&repo=web-vitals&show_owner=true)](https://github.com/GoogleChrome/web-vitals)
