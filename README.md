@@ -7,6 +7,7 @@ Check out some things I wrote on [Medium](https://medium.com/@omrilotan) maybe. 
 
 here are some of them:
 
+- [Speed up your npm init](https://omrilotan.medium.com/speed-up-your-npm-init-db867e49b787)
 - [npx breaking on CI?](https://omrilotan.medium.com/npx-breaking-on-ci-b9f3f61d4676)
 - [Rich HTML in GitHub README](https://omrilotan.medium.com/rich-html-in-github-readme-bfb3de791441)
 - [Detect mobile browsers without user agent string parsing](https://medium.com/fiverr-engineering/detect-mobile-browsers-without-user-agent-string-parsing-66e3694ce8cd)
@@ -16,8 +17,3 @@ here are some of them:
 - [Front End Resource Sharing in Fiverr's Decentralized System](https://medium.com/fiverr-engineering/front-end-dependency-sharing-19ed0ce9089e)
 - [Javascript APIs with async properties](https://omrilotan.medium.com/javascript-async-variables-686dc5f03cb2)
 - [Robots writing docs](https://medium.com/fiverr-engineering/robots-writing-docs-3b9877e42c31)
-- [Major.Minor.Patch](https://medium.com/fiverr-engineering/major-minor-patch-a5298e2e1798)
-
-I've been recently active on:
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=GoogleChrome&repo=web-vitals&show_owner=true)](https://github.com/GoogleChrome/web-vitals)
