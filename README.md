@@ -2,7 +2,7 @@
 
 I'm a web developer. I'm passionate about open-source software.
 
-Here are some of the things I wrote on [Medium](https://omrilotan.medium.com/).
+Sometimes I write little articles on [Medium](https://omrilotan.medium.com/).
 
 
 here are some of them:
