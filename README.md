@@ -17,3 +17,7 @@ here are some of them:
 - [Front End Resource Sharing in Fiverr's Decentralized System](https://medium.com/fiverr-engineering/front-end-dependency-sharing-19ed0ce9089e)
 - [Javascript APIs with async properties](https://omrilotan.medium.com/javascript-async-variables-686dc5f03cb2)
 - [Robots writing docs](https://medium.com/fiverr-engineering/robots-writing-docs-3b9877e42c31)
+
+I've been recently active on:
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode&show_owner=true)](https://github.com/microsoft/vscode)
