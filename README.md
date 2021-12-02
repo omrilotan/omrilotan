@@ -7,6 +7,7 @@ Sometimes I write little articles on [Medium](https://omrilotan.medium.com/).
 
 here are some of them:
 
+- [Benefits of sending analytical information with sendBeacon](https://medium.com/fiverr-engineering/benefits-of-sending-analytical-information-with-sendbeacon-a959cb206a7a)
 - [Speed up your npm init](https://omrilotan.medium.com/speed-up-your-npm-init-db867e49b787)
 - [npx breaking on CI?](https://omrilotan.medium.com/npx-breaking-on-ci-b9f3f61d4676)
 - [Rich HTML in GitHub README](https://omrilotan.medium.com/rich-html-in-github-readme-bfb3de791441)
@@ -16,4 +17,3 @@ here are some of them:
 - [Contact form for static websites](https://omrilotan.medium.com/contact-form-for-static-websites-56650393f78c)
 - [Front End Resource Sharing in Fiverr's Decentralized System](https://medium.com/fiverr-engineering/front-end-dependency-sharing-19ed0ce9089e)
 - [Javascript APIs with async properties](https://omrilotan.medium.com/javascript-async-variables-686dc5f03cb2)
-- [Robots writing docs](https://medium.com/fiverr-engineering/robots-writing-docs-3b9877e42c31)
