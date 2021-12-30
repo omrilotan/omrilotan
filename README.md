@@ -21,4 +21,3 @@ here are some of them:
 I've been recently active on:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ealush&repo=wait&show_owner=true)](https://github.com/ealush/wait)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=yosuke-furukawa&repo=server-timing&show_owner=true)](https://github.com/yosuke-furukawa/server-timing)
