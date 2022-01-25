@@ -17,3 +17,7 @@ here are some of them:
 - [Contact form for static websites](https://omrilotan.medium.com/contact-form-for-static-websites-56650393f78c)
 - [Front End Resource Sharing in Fiverr's Decentralized System](https://medium.com/fiverr-engineering/front-end-dependency-sharing-19ed0ce9089e)
 - [Javascript APIs with async properties](https://omrilotan.medium.com/javascript-async-variables-686dc5f03cb2)
+
+I've been recently active on:
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=jonschlinkert&repo=is-number&show_owner=true)](https://github.com/jonschlinkert/is-number)
