@@ -1,6 +1,7 @@
 # Hi.<br>My name is Omri.
 
-## Articles
+Articles
+
 - [2021-11-01 Benefits of sending analytical information with sendBeacon](https://medium.com/fiverr-engineering/benefits-of-sending-analytical-information-with-sendbeacon-a959cb206a7a)
 - [2021-07-25 Speed up your npm init](https://omrilotan.medium.com/speed-up-your-npm-init-db867e49b787)
 - [2020-09-27 npx breaking on CI?](https://omrilotan.medium.com/npx-breaking-on-ci-b9f3f61d4676)
