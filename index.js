@@ -14,12 +14,20 @@ const content = [];
 content.push(await read('./chunks/intro.md'));
 
 const articles = await medium('omrilotan');
+
+const d = date => [
+	date.getFullYear(),
+	date.getMonth(),
+	date.getDate()
+].map(
+	num => num < 10 ? `0${num}` : `${num}`
+).join('-')
+
 articles.length && content.push(
-	'',
-	'here are some of them:',
+	'Articles',
 	'',
 	...articles.map(
-		({ title, link }) => `- [${title}](${strip(link)})`
+		({ title, link, date }) => `- [${date ? `${d(date)} ` : ''}${title}](${strip(link)})`
 	)
 );
 
