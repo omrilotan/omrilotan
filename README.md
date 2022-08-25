@@ -16,4 +16,3 @@ Articles
 I've been recently active on:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=cloudflare&repo=cloudflare-docs&show_owner=true)](https://github.com/cloudflare/cloudflare-docs)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=cloudflare&repo=wrangler2&show_owner=true)](https://github.com/cloudflare/wrangler2)
