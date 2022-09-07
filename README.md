@@ -12,7 +12,3 @@ Articles
 - [2019-06-16 Contact form for static websites](https://omrilotan.medium.com/contact-form-for-static-websites-56650393f78c)
 - [2018-05-08 Front End Resource Sharing in Fiverr's Decentralized System](https://medium.com/fiverr-engineering/front-end-dependency-sharing-19ed0ce9089e)
 - [2018-01-11 Javascript APIs with async properties](https://omrilotan.medium.com/javascript-async-variables-686dc5f03cb2)
-
-I've been recently active on:
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=cloudflare&repo=cloudflare-docs&show_owner=true)](https://github.com/cloudflare/cloudflare-docs)
