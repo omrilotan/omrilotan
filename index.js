@@ -17,7 +17,7 @@ const articles = await medium('omrilotan');
 
 const d = date => [
 	date.getFullYear(),
-	date.getMonth(),
+	date.getMonth() + 1,
 	date.getDate()
 ].map(
 	num => num < 10 ? `0${num}` : `${num}`
