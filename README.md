@@ -2,6 +2,7 @@
 
 Articles
 
+- [2023-01-31 Unravel React Error Messages in the Log Pipeline](https://omrilotan.medium.com/unravel-react-error-messages-in-the-log-pipeline-16d1991da232)
 - [2023-01-19 Gradual Rollout of Cloudflare Workers](https://omrilotan.medium.com/gradual-rollout-of-cloudflare-workers-9cc151ed23a8)
 - [2021-12-01 Benefits of sending analytical information with sendBeacon](https://medium.com/fiverr-engineering/benefits-of-sending-analytical-information-with-sendbeacon-a959cb206a7a)
 - [2021-08-25 Speed up your npm init](https://omrilotan.medium.com/speed-up-your-npm-init-db867e49b787)
@@ -11,4 +12,3 @@ Articles
 - [2019-09-15 My terminal is procrastinating ](https://omrilotan.medium.com/my-terminal-is-procrastinating-c4cd520c373c)
 - [2019-09-11 Front end observability. A practical guide to browsers error monitoring with window.onerror ‍](https://medium.com/fiverr-engineering/front-end-observability-a-practical-guide-to-browsers-error-monitoring-with-window-onerror-307f7a93deef)
 - [2019-07-16 Contact form for static websites](https://omrilotan.medium.com/contact-form-for-static-websites-56650393f78c)
-- [2018-06-08 Front End Resource Sharing in Fiverr's Decentralized System](https://medium.com/fiverr-engineering/front-end-dependency-sharing-19ed0ce9089e)
