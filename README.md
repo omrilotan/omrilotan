@@ -16,4 +16,3 @@ Articles
 I've been recently active on:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=remix-run&repo=remix&show_owner=true)](https://github.com/remix-run/remix)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=vercel&repo=vercel&show_owner=true)](https://github.com/vercel/vercel)
