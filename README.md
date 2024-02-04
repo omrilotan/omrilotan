@@ -15,4 +15,5 @@ Articles
 
 I've been recently active on:
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=xpmn&repo=firefox-grayscale&show_owner=true)](https://github.com/xpmn/firefox-grayscale)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&show_owner=true)](https://github.com/facebook/react)
