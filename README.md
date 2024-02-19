@@ -12,8 +12,3 @@ Articles
 - [2020-07-08 Detect mobile browsers without user agent string parsing](https://medium.com/fiverr-engineering/detect-mobile-browsers-without-user-agent-string-parsing-66e3694ce8cd)
 - [2019-09-15 My terminal is procrastinating ](https://omrilotan.medium.com/my-terminal-is-procrastinating-c4cd520c373c)
 - [2019-09-11 Front end observability. A practical guide to browsers error monitoring with window.onerror ‍](https://medium.com/fiverr-engineering/front-end-observability-a-practical-guide-to-browsers-error-monitoring-with-window-onerror-307f7a93deef)
-
-I've been recently active on:
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=xpmn&repo=firefox-grayscale&show_owner=true)](https://github.com/xpmn/firefox-grayscale)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&show_owner=true)](https://github.com/facebook/react)
