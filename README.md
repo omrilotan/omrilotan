@@ -15,4 +15,5 @@ Articles
 
 I've been recently active on:
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=cloudflare&repo=cloudflare-docs&show_owner=true)](https://github.com/cloudflare/cloudflare-docs)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=long-lane-pasture&repo=longlanepasture.github.io&show_owner=true)](https://github.com/long-lane-pasture/longlanepasture.github.io)
