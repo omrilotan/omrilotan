@@ -16,4 +16,3 @@ Articles
 I've been recently active on:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=long-lane-pasture&repo=longlanepasture.github.io&show_owner=true)](https://github.com/long-lane-pasture/longlanepasture.github.io)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jonschlinkert&repo=is-number&show_owner=true)](https://github.com/jonschlinkert/is-number)
