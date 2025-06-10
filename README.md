@@ -16,4 +16,3 @@ Articles
 I've been recently active on:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=longlanepasture&repo=longlanepasture.org&show_owner=true)](https://github.com/longlanepasture/longlanepasture.org)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=romis2012&repo=is-bot&show_owner=true)](https://github.com/romis2012/is-bot)
