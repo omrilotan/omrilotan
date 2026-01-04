@@ -12,7 +12,3 @@ Articles
 - [2021-08-25 Speed up your npm init](https://omrilotan.medium.com/speed-up-your-npm-init-db867e49b787)
 - [2020-10-27 npx breaking on CI?](https://omrilotan.medium.com/npx-breaking-on-ci-b9f3f61d4676)
 - [2020-07-23 Rich HTML in GitHub README](https://omrilotan.medium.com/rich-html-in-github-readme-bfb3de791441)
-
-I've been recently active on:
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=longlanepasture&repo=longlanepasture.org&show_owner=true)](https://github.com/longlanepasture/longlanepasture.org)
