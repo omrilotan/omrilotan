@@ -16,4 +16,3 @@ Articles
 I've been recently active on:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=vercel-labs&repo=skills&show_owner=true)](https://github.com/vercel-labs/skills)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=stevenvachon&repo=robot-directives&show_owner=true)](https://github.com/stevenvachon/robot-directives)
