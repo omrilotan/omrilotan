@@ -16,4 +16,3 @@ Articles
 I've been recently active on:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=martinandert&repo=except&show_owner=true)](https://github.com/martinandert/except)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=vercel-labs&repo=skills&show_owner=true)](https://github.com/vercel-labs/skills)
