@@ -2,6 +2,7 @@
 
 Articles
 
+- [2026-10-19 When Everyone Builds Their Own Software, Who Builds the Next Big Idea?](https://omrilotan.medium.com/when-everyone-builds-their-own-software-who-builds-the-next-big-idea-e3237e21457b)
 - [2025-10-20 I needed an Internet Speed Monitor so I built it using AI coding](https://omrilotan.medium.com/b8a278b71920)
 - [2025-03-20 My Kids’ Bank Accounts](https://omrilotan.medium.com/my-kids-bank-accounts-0700c131ef83)
 - [2025-02-24 Adding Trace ID to Responses for Better Correlation](https://omrilotan.medium.com/adding-trace-id-to-responses-for-better-correlation-f5f514cf2283)
@@ -11,4 +12,3 @@ Articles
 - [2021-12-01 Benefits of sending analytical information with sendBeacon](https://medium.com/fiverr-engineering/benefits-of-sending-analytical-information-with-sendbeacon-a959cb206a7a)
 - [2021-08-25 Speed up your npm init](https://omrilotan.medium.com/speed-up-your-npm-init-db867e49b787)
 - [2020-10-27 npx breaking on CI?](https://omrilotan.medium.com/npx-breaking-on-ci-b9f3f61d4676)
-- [2020-07-23 Rich HTML in GitHub README](https://omrilotan.medium.com/rich-html-in-github-readme-bfb3de791441)
