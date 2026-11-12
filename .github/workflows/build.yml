@@ -1,0 +1,51 @@
+name: Build profile README
+
+on:
+  schedule:
+    # At 10:00 on every day-of-week from Sunday through Thursday.
+    - cron: "0 10 * * 0-4"
+  workflow_dispatch:
+  push:
+    branches: [build]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-readme
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source (build branch)
+        uses: actions/checkout@v4
+        with:
+          ref: build
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+
+      - name: Build
+        run: node index.js
+
+      - name: Publish to main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git clone --depth 1 --branch main \
+            "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" out
+          rm -rf out/README.md out/cards
+          cp -R dist/README.md dist/cards out/
+          cd out
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing changed"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "$(curl -s https://whatthecommit.com/index.txt)"
+          git push origin main
