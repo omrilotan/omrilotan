@@ -21,8 +21,8 @@ const featured = articles.slice(0, TOP);
 const cards = featured.flatMap((article, index) => {
 	const data = { ...article, date: article.date ? iso(article.date) : '' };
 	return [
-		{ path: `cards/${pad(index + 1)}-light.svg`, svg: card(data, 'light') },
-		{ path: `cards/${pad(index + 1)}-dark.svg`, svg: card(data, 'dark') }
+		{ path: `cards/${pad(index + 1)}-light.svg`, svg: card(data, 'light', index) },
+		{ path: `cards/${pad(index + 1)}-dark.svg`, svg: card(data, 'dark', index) }
 	];
 });
 
