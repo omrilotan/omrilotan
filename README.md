@@ -7,4 +7,8 @@
 <a href="https://itnext.io/when-everyone-reshapes-their-own-software-what-keeps-us-speaking-the-same-language-f7b31ce42f26"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/03-dark.svg"><img alt="When Everyone Reshapes Their Own Software, What Keeps Us Speaking the Same Language?" src="cards/03-light.svg" width="420"></picture></a> <a href="https://itnext.io/when-everyone-builds-their-own-software-who-builds-the-next-big-idea-e3237e21457b"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/04-dark.svg"><img alt="When Everyone Builds Their Own Software, Who Builds the Next Big Idea?" src="cards/04-light.svg" width="420"></picture></a><br>
 <a href="https://omrilotan.medium.com/b8a278b71920"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/05-dark.svg"><img alt="I needed an Internet Speed Monitor so I built it using AI coding" src="cards/05-light.svg" width="420"></picture></a> <a href="https://omrilotan.medium.com/my-kids-bank-accounts-0700c131ef83"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/06-dark.svg"><img alt="My Kids’ Bank Accounts" src="cards/06-light.svg" width="420"></picture></a><br>
 
+### Recently active on
+
+[![nirlotan/GlideDeck](https://github-readme-stats.vercel.app/api/pin/?username=nirlotan&repo=GlideDeck&show_owner=true)](https://github.com/nirlotan/GlideDeck)
+
 More writings: [omrilotan.medium.com](https://omrilotan.medium.com)
