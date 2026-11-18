@@ -53,6 +53,11 @@ if (featured.length) {
 	);
 }
 
+content.push(
+	'',
+	'More writings: [omrilotan.medium.com](https://omrilotan.medium.com)'
+);
+
 const activities = await github('omrilotan');
 if (activities.length) {
 	content.push(
@@ -66,11 +71,6 @@ if (activities.length) {
 		})
 	);
 }
-
-content.push(
-	'',
-	'More writings: [omrilotan.medium.com](https://omrilotan.medium.com)'
-);
 
 if (testing) {
 	console.log(content.join('\n'));
