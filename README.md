@@ -8,7 +8,3 @@
 <a href="https://itnext.io/when-everyone-builds-their-own-software-who-builds-the-next-big-idea-e3237e21457b"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/05-dark.svg"><img alt="When Everyone Builds Their Own Software, Who Builds the Next Big Idea?" src="cards/05-light.svg" width="420"></picture></a> <a href="https://omrilotan.medium.com/b8a278b71920"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/06-dark.svg"><img alt="I needed an Internet Speed Monitor so I built it using AI coding" src="cards/06-light.svg" width="420"></picture></a><br>
 
 More writings: [omrilotan.medium.com](https://omrilotan.medium.com)
-
-### Recently active on
-
-[![nirlotan/GlideDeck](https://github-readme-stats.vercel.app/api/pin/?username=nirlotan&repo=GlideDeck&show_owner=true)](https://github.com/nirlotan/GlideDeck)
